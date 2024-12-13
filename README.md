@@ -1,8 +1,8 @@
-# KOLLEGE
+# NIET ERP
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-[kollege.onrender.com](https://kollege.onrender.com)
+
 
 A College Based Data Management System.
 
@@ -113,13 +113,6 @@ baseURL: "https://example.address.com";
 - Cache Queries
 - Paginate Queries
 
-## Contact
-
-Errors are bound to happen and the documentation is incomplete.  
-I'd love to hear feedbacks and suggestions.  
-In any case, start a conversation: [LinkedIn](https://www.linkedin.com/in/iafthab) [Telegram](https://tttttt.me/LazySage01) [Mail](mailto:afthabiqbal123@gmail.com)(Make sure your mail doesn't get flagged as spam/junk)  
-Thank You ❤️.
-
 ## Acknowledgements
 
 - [MERN Stack Tutorial](https://www.youtube.com/watch?v=CvCiNeLnZ00&pp=ygUOZGF2ZSBncmF5IGZ1bGw%3D) by [Dave Gray](https://github.com/gitdagray)
@@ -130,9 +123,6 @@ Thank You ❤️.
 - [axios](https://axios-http.com/)
 - [README Editor](readme.so)
 
-## Related
-
-[kollege_api](https://github.com/iafthab/kollege_api)
 
 ## License
 
